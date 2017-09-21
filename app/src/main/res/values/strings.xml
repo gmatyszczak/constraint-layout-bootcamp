@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint Layout Demo</string>
+    <string name="banff_description">Banff is a town within Banff National Park in Alberta, Canada. It is located in Alberta\'s Rockies along the Trans-Canada Highway, approximately 126 km (78 mi) west of Calgary and 58 km (36 mi) east of Lake Louise.</string>
+    <string name="location_label">Location</string>
+    <string name="population_label">Population</string>
+    <string name="founded_label">Founded</string>
+    <string name="location_description">Alberta, Canada</string>
+    <string name="population_description">7,847</string>
+    <string name="founded_description">1885</string>
+</resources>
